@@ -1,6 +1,8 @@
-./FNDsubgraph/node_modules
-./FNDsubgraph/build
-./FNDsubgraph/.DS_Store
+# subgraph for FND
+FNDsubgraph/node_modules
+FNDsubgraph/build
+FNDsubgraph/.DS_Store
 
-./subgraph-react-app/node_modules
-./subgraph-react-app/.DS_Store
+# react-app
+subgraph-react-app/node_modules
+subgraph-react-app/.DS_Store
